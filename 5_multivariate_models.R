@@ -81,3 +81,5 @@ for ( i in 1:length(m.resid) ) {
 }
 
 plot(d$Divorce ~ m.resid)
+
+
